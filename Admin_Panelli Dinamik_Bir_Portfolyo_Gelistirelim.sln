@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin_Panelli Dinamik_Bir_Portfolyo_Gelistirelim", "Admin_Panelli Dinamik_Bir_Portfolyo_Gelistirelim\Admin_Panelli Dinamik_Bir_Portfolyo_Gelistirelim.csproj", "{40D9B9C3-C7B5-4A99-9B4F-BAD629D3AEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D9B9C3-C7B5-4A99-9B4F-BAD629D3AEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D9B9C3-C7B5-4A99-9B4F-BAD629D3AEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D9B9C3-C7B5-4A99-9B4F-BAD629D3AEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D9B9C3-C7B5-4A99-9B4F-BAD629D3AEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7E4F36-593B-4D3B-959B-050E609C16D4}
+	EndGlobalSection
+EndGlobal
